@@ -2,7 +2,7 @@
 
 🚀 **Backend Developer | Cloud Enthusiast | Full-Stack Explorer**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Jiali_Liu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiali-liu-b04b841ba)](www.linkedin.com/in/jiali-liu-b04b841ba) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Jiali%20Liu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiali-liu-b04b841ba)](https://www.linkedin.com/in/jiali-liu-b04b841ba) 
 [![Gmail Badge](https://img.shields.io/badge/-evanliujiali%40hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evanliujiali@hotmail.com)](mailto:evanliujiali@hotmail.com)
 
 ---
