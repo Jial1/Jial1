@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chad Mike!
+# 👋 Hi, I'm Jiali Liu!
 
 🚀 **Backend Developer | Cloud Enthusiast | Full-Stack Explorer**
 
