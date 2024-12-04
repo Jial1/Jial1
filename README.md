@@ -76,6 +76,6 @@ I am actively seeking **internship opportunities** in **software engineering** o
 
 ### 🌟 Contact Me
 - 📧 Email: [evanliujiali@hotmail.com](mailto:evanliujiali@hotmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/jiali-liu-b04b841ba)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jiali-liu-b04b841ba)
 
 Let’s connect and work on something awesome!
