@@ -61,19 +61,6 @@ I am actively seeking **internship opportunities** in **software engineering** o
 
 ---
 
-### Notable Projects
-
-- **Skier Management System**  
-  - 📍 *Tech Stack*: Java, AWS, Redis, RabbitMQ, Apache Tomcat
-  - 🎯 Designed a **distributed event processing system** for real-time skier activity, processing **200k+ LiftRide events** with optimized latency and **40% increased throughput**.
-  - Link: https://github.com/Jial1/BuildingtheDataLayer 
-- **Happy Lemon Review Application**  
-  - 📍 *Tech Stack*: Node.js, React, MongoDB
-  - 🎯 Created a full-stack **review application** that featured image uploads, filtering, and pagination, leading to **10% improved user satisfaction** and **20% faster data retrieval**.
-  - Link: https://github.com/Jial1/reviewweb
-
----
-
 ### 🌟 Contact Me
 - 📧 Email: [evanliujiali@hotmail.com](mailto:evanliujiali@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jiali-liu-b04b841ba)
