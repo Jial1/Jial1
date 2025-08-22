@@ -7,9 +7,7 @@
 
 ---
 
-### 🧑‍💻 About Me
-I’m Jiali, a software engineer passionate about **software development** and **leveraging cloud technologies**. 
-
+### 🧑‍💻 About Me 
 - 🎓 **Master’s in Computer Science** @ **Northeastern University** (Expected Dec 2025)
 - 🎓 **Bachelor’s in Informatics** @ **University of Washington**
 - 👯 I’m open to **collaborating on innovative projects** in cloud, backend, and API development.
