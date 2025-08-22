@@ -12,8 +12,6 @@ I’m Jiali, a software engineer passionate about **software development** and *
 
 - 🎓 **Master’s in Computer Science** @ **Northeastern University** (Expected Dec 2025)
 - 🎓 **Bachelor’s in Informatics** @ **University of Washington**
-- 🔭 I’m currently working on distributed event processing and backend optimizations for large-scale applications.
-- 🌱 I’m exploring **Containerization** (Docker), **Redis**, and **microservices architectures**.
 - 👯 I’m open to **collaborating on innovative projects** in cloud, backend, and API development.
   
 ### 🚀 Looking for Internship Opportunities
